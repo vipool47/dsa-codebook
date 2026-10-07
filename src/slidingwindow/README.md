@@ -143,3 +143,9 @@ count += right - left + 1;
 * 904. Fruit Into Baskets
 
 ---
+
+---
+
+## Revision Questions
+
+See [REVISION.md](./REVISION.md) for the must-practice problem set and pattern review for this topic.
