@@ -44,7 +44,8 @@ public class APIRateLimiting {
 
         // Max-heap: largest capacity first
         PriorityQueue<Integer> maxHeap =
-                new PriorityQueue<>(Collections.reverseOrder());
+                new PriorityQueue<>
+                (Collections.reverseOrder());
 
         maxHeap.addAll(capacity);
 

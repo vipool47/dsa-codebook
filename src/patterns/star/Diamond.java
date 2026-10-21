@@ -12,7 +12,7 @@ Tips:
  */
 public class Diamond {
     // pyramid + inverted pyramid
-    public void print() {
+    public static void print() {
         int n = 4;
 
         // upper part
@@ -34,5 +34,8 @@ public class Diamond {
         }
     }
 
+    public static void main(String[] args) {
+        print();
+    }
 
 }
