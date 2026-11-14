@@ -21,7 +21,6 @@ public class MinimumNumberGame {
     public int[] numberGame(int[] nums) {
         int n = nums.length;
         Arrays.sort(nums);
-        int cnt = 0;
 
         for(int i = 0; i < n; i += 2){
             int temp = nums[i];
