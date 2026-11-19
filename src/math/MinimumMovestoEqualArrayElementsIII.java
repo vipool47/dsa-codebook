@@ -1,3 +1,4 @@
+package math;
 /*
 3736. Minimum Moves to Equal Array Elements III
 

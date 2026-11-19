@@ -1,4 +1,4 @@
-package assesment;
+package assessment;
 
 import java.util.Collections;
 import java.util.List;

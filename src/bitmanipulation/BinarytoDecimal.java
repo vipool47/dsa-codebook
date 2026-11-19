@@ -1,4 +1,4 @@
-package bitmaupulation;
+package bitmanipulation;
 
 public class BinarytoDecimal {
     /*  This is typically used when converting from binary to decimal. For example, if you're iterating through a binary number like

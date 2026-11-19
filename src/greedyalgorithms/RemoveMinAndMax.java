@@ -1,4 +1,4 @@
-package geedyalgorithms;
+package greedyalgorithms;
 
 /*
 You are given a 0-indexed array of distinct integers nums.

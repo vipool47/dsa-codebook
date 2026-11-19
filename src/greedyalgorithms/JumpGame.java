@@ -1,4 +1,4 @@
-package geedyalgorithms;/*
+package greedyalgorithms;/*
 Problem Definition:
 -------------------
 You are given an array of non-negative integers `nums`. Each element in the array represents your

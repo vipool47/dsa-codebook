@@ -1,4 +1,4 @@
-package bitmaupulation;
+package bitmanipulation;
 
 //  to the base 2
 //  (7)10  to binary (11)2

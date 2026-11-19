@@ -1,4 +1,4 @@
-package geedyalgorithms;
+package greedyalgorithms;
 /*
 You are given two arrays of integers, fruits and baskets, each of length n,
 where fruits[i] represents the quantity of the ith type of fruit,

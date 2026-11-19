@@ -6,7 +6,7 @@ import java.util.Map;
 /*
 How many previous prefix sums equal currentPrefix - k?”
  */
-public class SubarraySumEqulasK {
+public class SubarraySumEqualsK {
     public int subarraySum(int[] nums, int k) {
         int count = 0;
         // Map to store: prefixSum -> how many times we've seen it

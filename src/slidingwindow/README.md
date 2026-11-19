@@ -133,19 +133,15 @@ count += right - left + 1;
 
 ---
 
-## Related LeetCode Problems (Must Practice)
+## Related Problems in This Repo
 
-* 930. Binary Subarray Sum
-* 1248. Count Number of Nice Subarrays
-* 992. Subarrays with K Different Integers
-* 713. Subarray Product Less Than K
-* 1004. Max Consecutive Ones III
-* 904. Fruit Into Baskets
-
----
+* 930. Binary Subarray Sum — [BinarySubArraywithSumK.java](./medium/BinarySubArraywithSumK.java)
+* 1248. Count Number of Nice Subarrays — [CountNumberofNiceSubarrays.java](./medium/CountNumberofNiceSubarrays.java)
+* 992. Subarrays with K Different Integers — [SubArrayWithKDistinctElements.java](./medium/SubArrayWithKDistinctElements.java)
+* 713. Subarray Product Less Than K — [SubarrayProductLessThanK.java](./medium/SubarrayProductLessThanK.java)
+* 1004. Max Consecutive Ones III — [MaxConsOnesThree.java](./medium/MaxConsOnesThree.java)
+* 904. Fruit Into Baskets — [FruitsIntoBaskets2.java](../greedyalgorithms/FruitsIntoBaskets2.java)
 
 ---
 
-## Revision Questions
-
-See [REVISION.md](./REVISION.md) for the must-practice problem set and pattern review for this topic.
+See the [main README](../../README.md) for all topics.

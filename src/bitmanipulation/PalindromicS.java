@@ -1,4 +1,4 @@
-package bitmaupulation;
+package bitmanipulation;
 
 /*
 You are given a string s consisting of lowercase English letters.
